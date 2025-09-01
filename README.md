@@ -3,7 +3,7 @@
 This repository contains my **latest resume (PDF)** for quick access and sharing.
 
 ## 🔗 Download
-- [Download Resume (PDF)](https://github.com/ggsurya/resume/blob/main/GG_Surya_Resume.pdf)
+- [Download Resume (PDF)](https://github.com/ggsurya/resume/blob/main/GG_SURYA_Resume.pdf)
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [linkedin.com/in/g-g-surya-5aa9312b4](https://www.linkedin.com/in/g-g-surya-5aa9312b4)  
